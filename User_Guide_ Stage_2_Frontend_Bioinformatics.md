@@ -1,6 +1,6 @@
 # Laboratory Reagent Preparation Calculator – User Guide
 
-Authors (@slack): Obibuogu Emmanuel Chidiebere (@Chiddo), (@Hala), (@Pollanda) Faith Oluyinka Ayoade (@FaithAyo1), Maurice Godwin (@Maurice)
+Authors (@slack): Obibuogu Emmanuel Chidiebere (@Chiddo), Hala Tariq Abdelnabi Mohammed (@Hala), Pollanda Abraham (@Pollanda), Faith Oluyinka Ayoade (@FaithAyo1), Maurice Godwin (@Maurice)
 
 #### Authors' github accounts [@Maurice31-prog](https://github.com/Maurice31-prog/Maurice31-prog) [@chidi03](https://github.com/Chidi03) [@FaithAyo](https://github.com/FaithAyo)
 
