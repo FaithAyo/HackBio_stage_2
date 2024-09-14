@@ -9,18 +9,17 @@ This document provides a detailed explanation of the mathematical formulas used 
 ### Mathematical Formula:
 The formula for serial dilution is derived from the equation:
 
-\[
-V_1 = \frac{{C_2 \times V_2}}{{C_1}}
-\]
-
+V1 = (C2 * V2) / C1
 Where:
-- \( V_1 \) = Volume of the stock solution needed (mL)
-- \( C_1 \) = Initial concentration of the stock solution (M)
-- \( C_2 \) = Final desired concentration (M)
-- \( V_2 \) = Total volume of the final solution (mL)
+- V1 = Volume of the stock solution needed (mL)
+- C1 = Initial concentration (M)
+- C2 = Desired final concentration (M)
+- V2 = Total volume of the final solution (mL)
+
+
 
 ### Explanation:
-This formula determines the amount of stock solution (\( V_1 \)) required to achieve a desired concentration (\( C_2 \)) in the final solution. The dilution factor is implicitly accounted for by the ratio of the initial and final concentrations. The stock solution is diluted by mixing it with a solvent to reach the final volume (\( V_2 \)) and concentration (\( C_2 \)).
+This formula determines the amount of stock solution (V1) required to achieve a desired concentration (C2) in the final solution. The dilution factor is implicitly accounted for by the ratio of the initial and final concentrations. The stock solution is diluted by mixing it with a solvent to reach the final volume (V2) and concentration (C2).
 
 ### Implementation in R Shiny:
 In R Shiny, the logic for this calculation is triggered when the user selects the **Serial Dilution** option and clicks the calculate button. The calculation multiplies the final concentration by the total volume, then divides by the initial concentration to compute the stock volume required.
@@ -45,21 +44,16 @@ observeEvent(input$calculate, {
 ### Mathematical Formula:
 The formula used for stock solution dilution is:
 
-\[
-C_1 \times V_1 = C_2 \times V_2
-\]
+C1 * V1 = C2 * V2
+Rearranging for V1:
+V1 = (C2 * V2) / C1
 
-Rearranged for \( V_1 \):
-
-\[
-V_1 = \frac{{C_2 \times V_2}}{{C_1}}
-\]
 
 Where:
-- \( V_1 \) = Volume of the stock solution needed (mL)
-- \( C_1 \) = Concentration of the stock solution (M)
-- \( C_2 \) = Desired concentration in the final solution (M)
-- \( V_2 \) = Final volume of the solution (mL)
+- V1 = Volume of the stock solution needed (mL)
+- V2 = Concentration of the stock solution (M)
+- V2 = Desired concentration in the final solution (M)
+- V2 = Final volume of the solution (mL)
 
 ### Explanation:
 This formula ensures that the total moles of solute before dilution (in the stock solution) are equal to the total moles after dilution. The calculator determines the volume of the concentrated stock solution that must be diluted to prepare a solution with the desired concentration.
@@ -87,9 +81,7 @@ observeEvent(input$calculate, {
 ### Mathematical Formula:
 The formula for molarity calculation is:
 
-\[
-\text{Mass of Solute (g)} = \text{Molecular Weight (g/mol)} \times \text{Desired Molarity (M)} \times \text{Solution Volume (L)}
-\]
+Mass (g) = Molecular Weight (g/mol) * Desired Molarity (M) * Solution Volume (L)
 
 Where:
 - **Mass of Solute** = Mass of the solute required (g)
@@ -122,16 +114,15 @@ observeEvent(input$calculate, {
 ### Mathematical Formula:
 The formula used for buffer preparation is a simplified version of buffer calculations, often based on the Henderson-Hasselbalch equation:
 
-\[
-V_{\text{acid}} = V_{\text{buffer}} \times \left( \frac{pH}{[\text{acid}] + [\text{base}]} \right)
-\]
+For simplicity, the buffer preparation calculation uses the following formula:
+Vacid = Vbuffer * (pH / [acid] + [base])
 
 Where:
-- \( V_{\text{acid}} \) = Volume of the acid solution needed (L)
-- \( V_{\text{buffer}} \) = Total volume of the buffer solution (L)
-- \( [\text{acid}] \) = Concentration of the acid (M)
-- \( [\text{base}] \) = Concentration of the base (M)
-- \( \text{pH} \) = Desired pH of the buffer solution
+- Vacid = Volume of the acid solution needed (L)
+- Vbuffer = Total volume of the buffer solution (L)
+- [acid] = Concentration of the acid (M)
+- [base] = Concentration of the base (M)
+- pH = Desired pH of the buffer solution
 
 ### Explanation:
 This simplified formula calculates the amount of acid required to achieve a buffer solution with the desired pH. The actual buffer preparation may involve more complex calculations, especially for weak acids and bases, but this provides a foundational understanding for buffer systems.
