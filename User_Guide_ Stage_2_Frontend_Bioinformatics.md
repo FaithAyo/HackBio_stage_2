@@ -2,7 +2,7 @@
 
 Authors (@slack): Obibuogu Emmanuel Chidiebere (@Chiddo), Hala Tariq Abdelnabi Mohammed (@Hala), Pollanda Abraham (@Pollanda), Faith Oluyinka Ayoade (@FaithAyo1), Maurice Godwin (@Maurice)
 
-#### Authors' github accounts [@Maurice31-prog](https://github.com/Maurice31-prog/Maurice31-prog) [@chidi03](https://github.com/Chidi03) [@FaithAyo](https://github.com/FaithAyo)
+#### Authors' github accounts [@Maurice31-prog](https://github.com/Maurice31-prog/Maurice31-prog), [@chidi03](https://github.com/Chidi03), [@FaithAyo](https://github.com/FaithAyo), [@RuneTalis](https://github.com/RuneTalis)
 
 
 Welcome to the Laboratory Reagent Preparation Calculator. This guide provides clear, step-by-step instructions on how to use the various calculators available in the app. Each section includes examples to help you understand the process better. 
@@ -119,7 +119,7 @@ The app will calculate how much of the acid or base is needed to achieve the des
 - After filling out the required fields, click **Calculate** to receive your results.
 - If you encounter any issues or errors, double-check your inputs to ensure they are accurate.
 
-For more detailed guidance or troubleshooting, please refer to the app documentation available [here](https://halatariq.shinyapps.io/myapp/).
+For more detailed guidance or troubleshooting, please refer to the app documentation available [here](https://github.com/FaithAyo/HackBio_stage_2/blob/main/Documentation.md)
 
 ---
 
