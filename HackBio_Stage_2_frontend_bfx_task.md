@@ -3,7 +3,7 @@
 Authors 
   (@slack): Obibuogu Emmanuel Chidiebere (@Chiddo), Hala Tariq Abdelnabi Mohammed (@Hala), Pollanda Abraham (@Pollanda), Faith Oluyinka Ayoade (@FaithAyo1), Maurice Godwin (@Maurice)
 
-  (@GitHub): [Maurice31-prog](https://github.com/Maurice31-prog/Maurice31-prog), [Chidi03](https://github.com/Chidi03), [FaithAyo](https://github.com/FaithAyo), [RuneTalis](https://github.com/RuneTalis), [Hala]
+  (@GitHub): [Maurice31-prog](https://github.com/Maurice31-prog/Maurice31-prog), [Chidi03](https://github.com/Chidi03), [FaithAyo](https://github.com/FaithAyo), [RuneTalis](https://github.com/RuneTalis), [Hala](https://github.com/hala2024205)
 
 **Laboratory Reagent Preparation Calculator**. This guide provides simple instructions for using each of the app’s calculators. You can access the app [here](https://halatariq.shinyapps.io/myapp/).
 
