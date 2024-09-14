@@ -1,12 +1,13 @@
 # Laboratory Reagent Preparation Calculator – User Guide
 
-Authors: Obibuogu Emmanuel Chidiebere (@Chiddo), Hala Tariq Abdelnabi Mohammed (@Hala), Pollanda Abraham (@Pollanda), Faith Oluyinka Ayoade (@FaithAyo1), Maurice Godwin (@Maurice)
+Authors 
+  (@slack): Obibuogu Emmanuel Chidiebere (@Chiddo), Hala Tariq Abdelnabi Mohammed (@Hala), Pollanda Abraham (@Pollanda), Faith Oluyinka Ayoade (@FaithAyo1), Maurice Godwin (@Maurice)
 
-GitHub: [Maurice31-prog](https://github.com/Maurice31-prog/Maurice31-prog), [Chidi03](https://github.com/Chidi03), [FaithAyo](https://github.com/FaithAyo), [RuneTalis](https://github.com/RuneTalis), [Hala]
+  (@GitHub): [Maurice31-prog](https://github.com/Maurice31-prog/Maurice31-prog), [Chidi03](https://github.com/Chidi03), [FaithAyo](https://github.com/FaithAyo), [RuneTalis](https://github.com/RuneTalis), [Hala]
 
 **Laboratory Reagent Preparation Calculator**. This guide provides simple instructions for using each of the app’s calculators. You can access the app [here](https://halatariq.shinyapps.io/myapp/).
 
-### Key Calculators:
+### Calculators:
 1. **Serial Dilution Calculator**
 2. **Stock Solution Dilution Calculator**
 3. **Molarity Calculator**
@@ -52,8 +53,8 @@ This calculator computes the acid/base volume needed to prepare a buffer of a sp
 
 **Example:** For a 1 L buffer with a pH of 7.4 and 0.1 M acid/base, the app calculates the required volumes of acid/base.
 
-### Final Notes:
+### Conclusion
 - Ensure inputs are in the correct units.
 - Double-check all values for accuracy before calculating.
 
-For detailed guidance or troubleshooting, please take a look at the [app documentation](https://github.com/FaithAyo/HackBio_stage_2/blob/main/Documentation.md) or [here]() for more from the user guide. 
+For detailed guidance or troubleshooting, please take a look at the [app documentation](https://github.com/FaithAyo/HackBio_stage_2/blob/main/Documentation.md) or [here](https://github.com/FaithAyo/HackBio_stage_2/blob/main/User_Guide_%20Stage_2_Frontend_Bioinformatics.md) for more details from the user guide. 
