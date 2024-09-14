@@ -1,8 +1,13 @@
 # Laboratory Reagent Preparation Calculator – User Guide
 
+Authors (@slack): Obibuogu Emmanuel Chidiebere (@Chiddo), (@Hala), (@Pollanda) Faith Oluyinka Ayoade (@FaithAyo1), Maurice Godwin (@Maurice)
+
+#### Authors' github accounts [@Maurice31-prog](https://github.com/Maurice31-prog/Maurice31-prog) [@chidi03](https://github.com/Chidi03) [@FaithAyo](https://github.com/FaithAyo)
+
+
 Welcome to the Laboratory Reagent Preparation Calculator. This guide provides clear, step-by-step instructions on how to use the various calculators available in the app. Each section includes examples to help you understand the process better. 
 
-You can access the app at: [https://halatariq.shinyapps.io/myapp/]
+You can access the app [Here](https://halatariq.shinyapps.io/myapp/)
 
 The app includes the following calculators:
 1. **Serial Dilution Calculator**
@@ -19,7 +24,7 @@ Let’s walk through how to use each of these calculators.
 The **Serial Dilution Calculator** helps you calculate how much stock solution you need to dilute to reach a desired concentration.
 
 ### Instructions:
-1. Navigate to the app here[https://halatariq.shinyapps.io/myapp/] and select the **Serial Dilution Calculator** from the dropdown menu.
+1. Navigate to the app [here](https://halatariq.shinyapps.io/myapp/) and select the **Serial Dilution Calculator** from the dropdown menu.
 2. Enter the following values:
    - **Initial Concentration (M):** This is the concentration of the starting stock solution (e.g., 1 M).
    - **Final Concentration (M):** The target concentration you want after dilution (e.g., 0.1 M).
@@ -59,7 +64,7 @@ For:
 
 You will be instructed to transfer 25 mL of the stock solution and dilute it with solvent to reach a final volume of 100 mL, resulting in a 0.5 M concentration.
 
-
+---
 
 ## 3. Molarity Calculation
 
@@ -114,7 +119,7 @@ The app will calculate how much of the acid or base is needed to achieve the des
 - After filling out the required fields, click **Calculate** to receive your results.
 - If you encounter any issues or errors, double-check your inputs to ensure they are accurate.
 
-For more detailed guidance or troubleshooting, please refer to the app documentation available at: [https://halatariq.shinyapps.io/myapp/].
+For more detailed guidance or troubleshooting, please refer to the app documentation available [here](https://halatariq.shinyapps.io/myapp/).
 
 ---
 
